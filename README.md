@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianZisik
-- 👀 I’m interested in everything about computering
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Web-development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me julianzisik@icloud.com
 
