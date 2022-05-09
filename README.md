@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on nothing in the moment
 - 📫 How to reach me julianzisik@icloud.com
 
-<!---
-JulianZisik/JulianZisik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ---
+
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianZisik&show_icons=true&theme=cobalt)
