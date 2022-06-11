@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianZisik
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me julianzisik@icloud.com // Discord: zise#3125
 
  ---
